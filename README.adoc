@@ -2,6 +2,8 @@
 
 == Configurations
 
-=== flask and pycharm community
+=== Flask and pycharm community
 https://medium.com/@mushtaque87/flask-in-pycharm-community-edition-c0f68400d91e[flask-in-pycharm-community]
 
+=== User’s Guide
+https://flask.palletsprojects.com/en/2.3.x/[version 2.3.x]
